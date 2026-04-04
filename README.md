@@ -1,5 +1,5 @@
 <h1 align="center">
-  Cześć, jestem Grzegorz z Maxsoft 👋
+  Cześć, jestem Grzegorz 👋
 </h1>
 
 <div align="center">
@@ -55,7 +55,7 @@
 <br/>
 
 <h1 align="center">
-  Hi, I'm Grzegorz from Maxsoft 👋
+  Hi, I'm Greg 👋
 </h1>
 
 <div align="center">
