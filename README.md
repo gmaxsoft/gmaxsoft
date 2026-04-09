@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;TypeScript+%2F+PHP+%2F+Next.js;Lubię+tworzyć+aplikacje+od+A+do+Z" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;TypeScript+%2F+PHP+%2F+Next.js;Lubię+tworzyć+aplikacje+od+A+do+Z;Laravel;Symfony;React;Vue" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -62,7 +62,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;TypeScript+%2F+PHP+%2F+Next.js;I+love+building+applications+from+A+to+Z" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;TypeScript+%2F+PHP+%2F+Next.js;I+love+building+applications+from+A+to+Z;Laravel;Symfony;React;Vue" alt="Typing SVG" />
 </div>
 
 <br/>
